@@ -78,7 +78,7 @@
   },
   {
     "name": "co.up",
-    "address": "Adalbert straße 8, 10999 Berlin",
+    "address": "Adalbertstraße 8, 10999 Berlin",
     "url": "http://co-up.de",
     "lat": "52.50038226",
     "lng": "13.41972939",
@@ -920,8 +920,8 @@
     "lng": "13.39494982",
     "cost_day": "",
     "cost_flex": "69",
-    "cost_fixed": "",
-    "notes": ""
+    "cost_fixed": "149.00",
+    "notes": "Event Space"
   },
   {
     "name": "Unicorn.Berlin Mitte",
@@ -929,10 +929,32 @@
     "url": "http://unicorn.berlin/locations/mitte/",
     "lat": "52.53290055",
     "lng": "13.39840992",
-    "cost_day": "",
-    "cost_flex": "69",
+    "cost_day": "16.50",
+    "cost_flex": "",
     "cost_fixed": "",
-    "notes": ""
+    "notes": "Event Space"
+  },
+  {
+    "name": "Unicorn.Berlin Kleist",
+    "address": "Kleiststr. 23, 10787 Berlin",
+    "url": "https://unicorn.berlin/locations/unicorn-berlin-kleiststrasse/",
+    "lat": "52.5012263",
+    "lng": "13.3444221",
+    "cost_day": "",
+    "cost_flex": "",
+    "cost_fixed": "",
+    "notes": "Fix Desks, Team Rooms"
+  },
+  {
+    "name": "Unicorn.Berlin Village",
+    "address": "Richardstrasse 85/86, 12043 Berlin",
+    "url": "https://unicorn.berlin/locations/unicorn-village/",
+    "lat": "52.4758",
+    "lng": "13.44368",
+    "cost_day": "",
+    "cost_flex": "",
+    "cost_fixed": "340.00",
+    "notes": "Fix Desks, Team Rooms"
   },
   {
     "name": "Noize Fabrik",
