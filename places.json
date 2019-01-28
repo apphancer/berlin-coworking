@@ -3,10 +3,10 @@
     "type": "Feature",
     "properties": {
       "name": "AHA Factory",
-      "website": null,
+      "website": "https://www.facebook.com/AHA-Berlin-427566990689415/",
       "description": "",
       "address": {
-        "street": "Bergmannstrasse 68",
+        "street": "Bërgmannstrasse 68",
         "postcode": "10961",
         "city": " Berlin",
         "country": "DE"
@@ -29,7 +29,7 @@
     "type": "Feature",
     "properties": {
       "name": "Ahoy",
-      "website": null,
+      "website": "http://ahoyberlin.com",
       "description": "",
       "address": {
         "street": "Wattstraße 11",
@@ -55,7 +55,7 @@
     "type": "Feature",
     "properties": {
       "name": "Alte Kantine",
-      "website": null,
+      "website": "http://alte-kantine-wedding.de/coworking",
       "description": "",
       "address": {
         "street": "Uferstrasse 8-11",
@@ -81,7 +81,7 @@
     "type": "Feature",
     "properties": {
       "name": "Betahaus",
-      "website": null,
+      "website": "http://betahaus.de",
       "description": "",
       "address": {
         "street": "Prinzessinnenstraße 19-20",
@@ -107,7 +107,7 @@
     "type": "Feature",
     "properties": {
       "name": "b+office",
-      "website": null,
+      "website": "http://bplusoffice.de",
       "description": "",
       "address": {
         "street": "Dudenstraße 10",
@@ -133,7 +133,7 @@
     "type": "Feature",
     "properties": {
       "name": "BUEROW",
-      "website": null,
+      "website": "http://buerow.org",
       "description": "",
       "address": {
         "street": "Dunckerstraße 59b",
@@ -159,7 +159,7 @@
     "type": "Feature",
     "properties": {
       "name": "Coconat space",
-      "website": null,
+      "website": "http://coconat-space.com",
       "description": "",
       "address": {
         "street": "Bergstraße 1, Brandenburger Osthavelniederung",
@@ -185,7 +185,7 @@
     "type": "Feature",
     "properties": {
       "name": "co.up",
-      "website": null,
+      "website": "http://co-up.de",
       "description": "",
       "address": {
         "street": "Adalbertstraße 8",
@@ -211,7 +211,7 @@
     "type": "Feature",
     "properties": {
       "name": "coworkINN",
-      "website": null,
+      "website": "http://www.coworkinn.de",
       "description": "",
       "address": {
         "street": "Franklinstraße 8",
@@ -237,7 +237,7 @@
     "type": "Feature",
     "properties": {
       "name": "co-working space TABLE OF VISIONS",
-      "website": null,
+      "website": "http://coworking-halleamwasser.com",
       "description": "",
       "address": {
         "street": "Brunnenstraße 181",
@@ -263,7 +263,7 @@
     "type": "Feature",
     "properties": {
       "name": "Creative Office",
-      "website": null,
+      "website": "http://www.creative-office.org",
       "description": "",
       "address": {
         "street": "Finowstraße 5",
@@ -289,7 +289,7 @@
     "type": "Feature",
     "properties": {
       "name": "creative|media|lab",
-      "website": null,
+      "website": "http://www.creativemedialab.de/",
       "description": "",
       "address": {
         "street": "Alexanderstraße 7",
@@ -315,10 +315,10 @@
     "type": "Feature",
     "properties": {
       "name": "ESDIP| Berlin",
-      "website": null,
+      "website": "http://esdipberlin.com/",
       "description": "",
       "address": {
-        "street": "Gr\u00fcnberger Straße 48B",
+        "street": "Grünberger Straße 48B",
         "postcode": "10245",
         "city": " Berlin",
         "country": "DE"
@@ -341,10 +341,10 @@
     "type": "Feature",
     "properties": {
       "name": "fritz46",
-      "website": null,
+      "website": "http://www.fritz46.de",
       "description": "",
       "address": {
-        "street": "L\u00fcbecker Straße 46",
+        "street": "Lübecker Straße 46",
         "postcode": "10559",
         "city": " Berlin",
         "country": "DE"
@@ -367,7 +367,7 @@
     "type": "Feature",
     "properties": {
       "name": "Glas+Bild",
-      "website": null,
+      "website": "http://www.glasundbild.com/",
       "description": "",
       "address": {
         "street": "Reichenberger Straße 71",
@@ -393,7 +393,7 @@
     "type": "Feature",
     "properties": {
       "name": "GUUEY Coworking",
-      "website": null,
+      "website": "http://coworking.guuey.com/",
       "description": "",
       "address": {
         "street": "Pettenkoferstr 4c",
@@ -419,7 +419,7 @@
     "type": "Feature",
     "properties": {
       "name": "House of Clouds",
-      "website": null,
+      "website": "http://www.houseofclouds.de/",
       "description": "",
       "address": {
         "street": "Wiclefstraße 16-17",
@@ -444,11 +444,11 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "Kultursch\u00f6pfer",
-      "website": null,
+      "name": "Kulturschöpfer",
+      "website": "http://www.kulturschoepfer.de",
       "description": "",
       "address": {
-        "street": "Gr\u00fcnberger straße 13",
+        "street": "Grünberger straße 13",
         "postcode": "10243",
         "city": " Berlin",
         "country": "DE"
@@ -470,8 +470,8 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "Launch\/Co",
-      "website": null,
+      "name": "Launch/Co",
+      "website": "https://launchco.com",
       "description": "",
       "address": {
         "street": "Rudolfstraße 14",
@@ -497,10 +497,10 @@
     "type": "Feature",
     "properties": {
       "name": "mobilesuite Coworking",
-      "website": null,
+      "website": "http://mobilesuite.de",
       "description": "",
       "address": {
-        "street": "Pappelallee 78\/79",
+        "street": "Pappelallee 78/79",
         "postcode": "10437",
         "city": " Berlin",
         "country": "DE"
@@ -522,8 +522,8 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "meeet - R\u00e4ume f\u00fcr Begegnungen",
-      "website": null,
+      "name": "meeet - Räume für Begegnungen",
+      "website": "http://meeet.de/",
       "description": "",
       "address": {
         "street": "Konstanzer straße 15a",
@@ -549,10 +549,10 @@
     "type": "Feature",
     "properties": {
       "name": "Nest Speise- & Schankwirtschaft",
-      "website": null,
+      "website": "http://cafenest.de/coworking",
       "description": "",
       "address": {
-        "street": "G\u00f6rlitzer straße 52, 10997",
+        "street": "Görlitzer straße 52, 10997",
         "postcode": "Berlin",
         "city": null,
         "country": "DE"
@@ -575,7 +575,7 @@
     "type": "Feature",
     "properties": {
       "name": "OpenDataCity",
-      "website": null,
+      "website": "https://opendatacity.de",
       "description": "",
       "address": {
         "street": "Singerstraße 109",
@@ -601,7 +601,7 @@
     "type": "Feature",
     "properties": {
       "name": "PulsRaum",
-      "website": null,
+      "website": "http://coworking.pulsraum.de/",
       "description": "",
       "address": {
         "street": "Kottbusser Damm 25-26",
@@ -627,7 +627,7 @@
     "type": "Feature",
     "properties": {
       "name": "raumstation",
-      "website": null,
+      "website": "http://raumstation-berlin.net",
       "description": "",
       "address": {
         "street": "Stendalerstrasse 4",
@@ -653,7 +653,7 @@
     "type": "Feature",
     "properties": {
       "name": "raumteiler16",
-      "website": null,
+      "website": "http://www.raumteiler-berlin.de/",
       "description": "",
       "address": {
         "street": "Tuerken straße 16",
@@ -679,7 +679,7 @@
     "type": "Feature",
     "properties": {
       "name": "Rainmaking Loft",
-      "website": null,
+      "website": "http://www.rainmakingloft.com/",
       "description": "",
       "address": {
         "street": "Charlottenstraße 2",
@@ -705,12 +705,12 @@
     "type": "Feature",
     "properties": {
       "name": "Space Shack",
-      "website": null,
+      "website": "https://www.space-shack.com/",
       "description": "",
       "address": {
         "street": "Hauptstraße 19",
         "postcode": "10823",
-        "city": " Berlin-Sch\u00f6neberg",
+        "city": " Berlin-Schöneberg",
         "country": "DE"
       },
       "rates": {
@@ -731,7 +731,7 @@
     "type": "Feature",
     "properties": {
       "name": "Sankt Oberholz",
-      "website": null,
+      "website": "http://sanktoberholz.de",
       "description": "",
       "address": {
         "street": "Rosenthaler Straße 72a",
@@ -757,7 +757,7 @@
     "type": "Feature",
     "properties": {
       "name": "Salon Renate",
-      "website": null,
+      "website": "http://salonrenate.com/",
       "description": "",
       "address": {
         "street": "Weichselstraße 65",
@@ -783,7 +783,7 @@
     "type": "Feature",
     "properties": {
       "name": "Supermarkt",
-      "website": null,
+      "website": "http://www.supermarkt-berlin.net",
       "description": "",
       "address": {
         "street": "Mehringplatz 9",
@@ -809,10 +809,10 @@
     "type": "Feature",
     "properties": {
       "name": "Square Haus",
-      "website": null,
+      "website": "http://www.coworking-berlin-squarehaus.de",
       "description": "",
       "address": {
-        "street": "B\u00fclowstraße 6",
+        "street": "Bülowstraße 6",
         "postcode": "10783",
         "city": " Berlin",
         "country": "DE"
@@ -835,7 +835,7 @@
     "type": "Feature",
     "properties": {
       "name": "Studio Hertzberg",
-      "website": null,
+      "website": "http://www.studiohertzberg.de/",
       "description": "",
       "address": {
         "street": "Sonnenallee 174",
@@ -861,7 +861,7 @@
     "type": "Feature",
     "properties": {
       "name": "Strategy Team",
-      "website": null,
+      "website": "https://www.facebook.com/coworkingstrategyteam/",
       "description": "",
       "address": {
         "street": "Hardenbergstraße 8",
@@ -887,7 +887,7 @@
     "type": "Feature",
     "properties": {
       "name": "Tante Renate",
-      "website": null,
+      "website": "http://tanterenate.de",
       "description": "",
       "address": {
         "street": "Waldemarstraße 37a",
@@ -913,7 +913,7 @@
     "type": "Feature",
     "properties": {
       "name": "Enklave",
-      "website": null,
+      "website": "http://www.enklave.de/",
       "description": "",
       "address": {
         "street": "Kienitzer Strasse 98",
@@ -939,7 +939,7 @@
     "type": "Feature",
     "properties": {
       "name": "Transistor",
-      "website": null,
+      "website": "http://transistor.berlin/",
       "description": "",
       "address": {
         "street": "Ohlauer straße 43",
@@ -965,7 +965,7 @@
     "type": "Feature",
     "properties": {
       "name": "U8| Berlin",
-      "website": null,
+      "website": "http://www.u8berlin.com/",
       "description": "",
       "address": {
         "street": "Herzbergstraße 55",
@@ -991,7 +991,7 @@
     "type": "Feature",
     "properties": {
       "name": "United Urbanites",
-      "website": null,
+      "website": "http://www.united-urbanites.com/",
       "description": "",
       "address": {
         "street": "Pappelallee 24",
@@ -1016,11 +1016,11 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "\u00fcberlin",
-      "website": null,
+      "name": "überlin",
+      "website": "http://www.uberlin.co.uk",
       "description": "",
       "address": {
-        "street": "B\u00f6ckhstraße 26",
+        "street": "Böckhstraße 26",
         "postcode": "10967",
         "city": " Berlin",
         "country": "DE"
@@ -1043,7 +1043,7 @@
     "type": "Feature",
     "properties": {
       "name": "Weserland Coworking",
-      "website": null,
+      "website": "http://www.weserland.net/",
       "description": "",
       "address": {
         "street": "Weserstrasse 21",
@@ -1069,7 +1069,7 @@
     "type": "Feature",
     "properties": {
       "name": "welance",
-      "website": null,
+      "website": "https://welance.de/",
       "description": "",
       "address": {
         "street": "Waldemarstraße 37a",
@@ -1095,7 +1095,7 @@
     "type": "Feature",
     "properties": {
       "name": "Wostel",
-      "website": null,
+      "website": "http://wostel.de",
       "description": "",
       "address": {
         "street": "Hobrechtstraße 66",
@@ -1121,7 +1121,7 @@
     "type": "Feature",
     "properties": {
       "name": "IKEA Lichtenberg",
-      "website": null,
+      "website": "http://www.ikea.com/de/de/store/berlin_tempelhof/indexPage",
       "description": "",
       "address": {
         "street": "Landsberger Allee 364",
@@ -1147,7 +1147,7 @@
     "type": "Feature",
     "properties": {
       "name": "Cafe Bilderbuch",
-      "website": null,
+      "website": "http://www.cafe-bilderbuch.de",
       "description": "",
       "address": {
         "street": "Akazienstraße 28",
@@ -1173,7 +1173,7 @@
     "type": "Feature",
     "properties": {
       "name": "Milch & Zucker",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
         "street": "Oranienstraße 37",
@@ -1199,7 +1199,7 @@
     "type": "Feature",
     "properties": {
       "name": "Milch & Zucker",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
         "street": "Warschauer straße 70",
@@ -1225,7 +1225,7 @@
     "type": "Feature",
     "properties": {
       "name": "Rubens Coffee Lounge",
-      "website": null,
+      "website": "http://www.rubens-berlin.de",
       "description": "",
       "address": {
         "street": "Mehringdamm 65",
@@ -1251,7 +1251,7 @@
     "type": "Feature",
     "properties": {
       "name": "Matzbach Restaurant",
-      "website": null,
+      "website": "http://www.matzbach-berlin.de/",
       "description": "",
       "address": {
         "street": "Marheinekepl. 15",
@@ -1277,7 +1277,7 @@
     "type": "Feature",
     "properties": {
       "name": "J.A.S. Cafe und Restauration",
-      "website": null,
+      "website": "http://www.jas-berlin.de",
       "description": "",
       "address": {
         "street": "Kaskelstraße 27",
@@ -1303,7 +1303,7 @@
     "type": "Feature",
     "properties": {
       "name": "Melis Cafe",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
         "street": "Prenzlauer Allee 51",
@@ -1329,7 +1329,7 @@
     "type": "Feature",
     "properties": {
       "name": "Lindsays Cafe",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
         "street": "Weichselstraße 26",
@@ -1355,7 +1355,7 @@
     "type": "Feature",
     "properties": {
       "name": "No Fire No Glory",
-      "website": null,
+      "website": "http://www.nofirenoglory.de/",
       "description": "",
       "address": {
         "street": "Rykestraße 45",
@@ -1381,7 +1381,7 @@
     "type": "Feature",
     "properties": {
       "name": "Oslo Kaffebar",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
         "street": "Eichendorffstraße 13",
@@ -1407,7 +1407,7 @@
     "type": "Feature",
     "properties": {
       "name": "Parker Bowles",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
         "street": "Prinzenstraße 85d",
@@ -1433,7 +1433,7 @@
     "type": "Feature",
     "properties": {
       "name": "Cafe Extrablatt",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
         "street": "Wilmersdorfer straße 46",
@@ -1459,10 +1459,10 @@
     "type": "Feature",
     "properties": {
       "name": "kaufbar",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
-        "street": "G\u00e4rtnerstraße 4",
+        "street": "Gärtnerstraße 4",
         "postcode": "10245",
         "city": " Berlin",
         "country": "DE"
@@ -1485,7 +1485,7 @@
     "type": "Feature",
     "properties": {
       "name": "Jenzeits",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
         "street": "Heinrichplatz",
@@ -1511,10 +1511,10 @@
     "type": "Feature",
     "properties": {
       "name": "Michelberger Booze",
-      "website": null,
+      "website": "http://www.michelbergerbooze.com/",
       "description": "",
       "address": {
-        "street": "Warschauer Straße 39\/40",
+        "street": "Warschauer Straße 39/40",
         "postcode": "10243",
         "city": " Berlin",
         "country": "DE"
@@ -1537,7 +1537,7 @@
     "type": "Feature",
     "properties": {
       "name": "Westberlin Cafe",
-      "website": null,
+      "website": "http://www.westberlin-bar-shop.de",
       "description": "",
       "address": {
         "street": "Friedrichstrasse 215",
@@ -1563,7 +1563,7 @@
     "type": "Feature",
     "properties": {
       "name": "The Barn",
-      "website": null,
+      "website": "http://barn.bigcartel.com",
       "description": "",
       "address": {
         "street": "Auguststraße 58",
@@ -1589,7 +1589,7 @@
     "type": "Feature",
     "properties": {
       "name": "Cuccuma Espresso & Focaccia",
-      "website": null,
+      "website": "http://cuccuma.de",
       "description": "",
       "address": {
         "street": "Zossener Straße 34",
@@ -1614,8 +1614,8 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "Caf\u00e9 au lait",
-      "website": null,
+      "name": "Café au lait",
+      "website": "",
       "description": "",
       "address": {
         "street": "Kantstraße 110",
@@ -1641,7 +1641,7 @@
     "type": "Feature",
     "properties": {
       "name": "Gottlob",
-      "website": null,
+      "website": "http://www.gottlob-berlin.de",
       "description": "",
       "address": {
         "street": "Akazienstraße 17",
@@ -1667,7 +1667,7 @@
     "type": "Feature",
     "properties": {
       "name": "Eis-Hennig",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
         "street": "Tempelhofer Damm 134",
@@ -1692,8 +1692,8 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "Starbucks Hackesche H\u00f6fe",
-      "website": null,
+      "name": "Starbucks Hackesche Höfe",
+      "website": "",
       "description": "",
       "address": {
         "street": "Rosenthaler Straße 40-41",
@@ -1719,7 +1719,7 @@
     "type": "Feature",
     "properties": {
       "name": "Kleine Mensa",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
         "street": "Triftstraße 58",
@@ -1745,7 +1745,7 @@
     "type": "Feature",
     "properties": {
       "name": "The Kitchen",
-      "website": null,
+      "website": "http://www.circus-berlin.de/apartments/service/the-kitchen-cafe-lounge/",
       "description": "",
       "address": {
         "street": "Choriner Straße 84",
@@ -1771,7 +1771,7 @@
     "type": "Feature",
     "properties": {
       "name": "Silo Coffee",
-      "website": null,
+      "website": "https://www.facebook.com/silocoffee",
       "description": "",
       "address": {
         "street": "Gabriel-Max-Straße 4",
@@ -1797,7 +1797,7 @@
     "type": "Feature",
     "properties": {
       "name": "Milchschaum",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
         "street": "Bergmannstraße 3",
@@ -1822,11 +1822,11 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "Nothaft Seidel Caf\u00e9",
-      "website": null,
+      "name": "Nothaft Seidel Café",
+      "website": "https://www.facebook.com/NothaftSeidelCafe",
       "description": "",
       "address": {
-        "street": "Sch\u00f6nhauser Allee 43a",
+        "street": "Schönhauser Allee 43a",
         "postcode": "10435",
         "city": " Berlin",
         "country": "DE"
@@ -1849,7 +1849,7 @@
     "type": "Feature",
     "properties": {
       "name": "Coffee Bar",
-      "website": null,
+      "website": "http://www.yelp.com/biz/coffee-bar-berlin-5",
       "description": "",
       "address": {
         "street": "Inge-Beisheim-Platz 2",
@@ -1875,7 +1875,7 @@
     "type": "Feature",
     "properties": {
       "name": "Shakespeare and Sons",
-      "website": null,
+      "website": "http://www.shakesbooks.de/",
       "description": "",
       "address": {
         "street": "Warschauer straße 74",
@@ -1901,7 +1901,7 @@
     "type": "Feature",
     "properties": {
       "name": "Basecamp",
-      "website": null,
+      "website": "https://basecamp.telefonica.de/",
       "description": "",
       "address": {
         "street": "Mittelstraße 51 - 53",
@@ -1927,7 +1927,7 @@
     "type": "Feature",
     "properties": {
       "name": "Enter-Brain-Ment Entwicklerstudio",
-      "website": null,
+      "website": "http://coworking.enter-brain-ment.de/",
       "description": "",
       "address": {
         "street": "Rigaer straße 29a",
@@ -1953,7 +1953,7 @@
     "type": "Feature",
     "properties": {
       "name": "mattern16",
-      "website": null,
+      "website": "http://mattern16.amarantus.de",
       "description": "",
       "address": {
         "street": "Matternstraße 16",
@@ -1979,7 +1979,7 @@
     "type": "Feature",
     "properties": {
       "name": "TeilREICH",
-      "website": null,
+      "website": "http://www.teilreich.de/",
       "description": "",
       "address": {
         "street": "Wiclefstraße 50",
@@ -2005,7 +2005,7 @@
     "type": "Feature",
     "properties": {
       "name": "Familienbetrieb",
-      "website": null,
+      "website": "http://familienbetrieb-berlin.de/",
       "description": "",
       "address": {
         "street": "Gabriel-Max-straße 11",
@@ -2031,7 +2031,7 @@
     "type": "Feature",
     "properties": {
       "name": "Colonia Nova",
-      "website": null,
+      "website": "http://www.colonianova.com/en",
       "description": "",
       "address": {
         "street": "Thiemannstrasse 1",
@@ -2057,7 +2057,7 @@
     "type": "Feature",
     "properties": {
       "name": "alteFEINbaeckerei",
-      "website": null,
+      "website": "http://www.altefeinbaeckerei.de",
       "description": "",
       "address": {
         "street": "Carl-von-Ossietzky-Strasse 21",
@@ -2083,10 +2083,10 @@
     "type": "Feature",
     "properties": {
       "name": "Factory| Berlin",
-      "website": null,
+      "website": "http://factoryberlin.com/",
       "description": "",
       "address": {
-        "street": "Rheinsberger straße 76\/77",
+        "street": "Rheinsberger straße 76/77",
         "postcode": "10115",
         "city": " Berlin",
         "country": "DE"
@@ -2109,7 +2109,7 @@
     "type": "Feature",
     "properties": {
       "name": "juggleHUB",
-      "website": null,
+      "website": "http://jugglehub.de",
       "description": "",
       "address": {
         "street": "Christburger Straße 23",
@@ -2135,7 +2135,7 @@
     "type": "Feature",
     "properties": {
       "name": "Unicorn.Berlin Wedding",
-      "website": null,
+      "website": "http://unicorn.berlin/locations/wedding/",
       "description": "Event Space",
       "address": {
         "street": "Brunnenstraße 64",
@@ -2161,7 +2161,7 @@
     "type": "Feature",
     "properties": {
       "name": "Unicorn.Berlin Mitte",
-      "website": null,
+      "website": "http://unicorn.berlin/locations/mitte/",
       "description": "Event Space",
       "address": {
         "street": "Brunnenstraße 173",
@@ -2187,7 +2187,7 @@
     "type": "Feature",
     "properties": {
       "name": "Unicorn.Berlin Kleist",
-      "website": null,
+      "website": "https://unicorn.berlin/locations/unicorn-berlin-kleiststrasse/",
       "description": "Fix Desks, Team Rooms",
       "address": {
         "street": "Kleiststraße 23",
@@ -2213,10 +2213,10 @@
     "type": "Feature",
     "properties": {
       "name": "Unicorn.Berlin Village",
-      "website": null,
+      "website": "https://unicorn.berlin/locations/unicorn-village/",
       "description": "Fix Desks, Team Rooms",
       "address": {
-        "street": "Richardstrasse 85\/86",
+        "street": "Richardstrasse 85/86",
         "postcode": "12043",
         "city": " Berlin",
         "country": "DE"
@@ -2239,7 +2239,7 @@
     "type": "Feature",
     "properties": {
       "name": "Noize Fabrik",
-      "website": null,
+      "website": "http://www.noizefabrik.com",
       "description": "",
       "address": {
         "street": "Elsenstraße 52",
@@ -2265,7 +2265,7 @@
     "type": "Feature",
     "properties": {
       "name": "The Workspace",
-      "website": null,
+      "website": "http://theworkspace.de/",
       "description": "",
       "address": {
         "street": "Lindenstrasse 20-25",
@@ -2291,7 +2291,7 @@
     "type": "Feature",
     "properties": {
       "name": "Amapola Coworking",
-      "website": null,
+      "website": "http://amapola-coworking.de",
       "description": "",
       "address": {
         "street": "Scharnhorststraße 24",
@@ -2317,7 +2317,7 @@
     "type": "Feature",
     "properties": {
       "name": "tuesday coworking",
-      "website": null,
+      "website": "www.tuesdaycoworking.com",
       "description": "",
       "address": {
         "street": "Feurigstrasse 51",
@@ -2343,7 +2343,7 @@
     "type": "Feature",
     "properties": {
       "name": "The Earlybird| Berlin",
-      "website": null,
+      "website": "http://earlybird-berlin.de/",
       "description": "",
       "address": {
         "street": "Rudi-Dutschke-Str 6",
@@ -2369,7 +2369,7 @@
     "type": "Feature",
     "properties": {
       "name": "Mindspace",
-      "website": null,
+      "website": "http://mindspace.me/berlin/",
       "description": "",
       "address": {
         "street": "Friedrichstraße 68",
@@ -2395,7 +2395,7 @@
     "type": "Feature",
     "properties": {
       "name": "WeWork Sony Center",
-      "website": null,
+      "website": "https://www.wework.com/l/berlin",
       "description": "",
       "address": {
         "street": "Kemperplatz 1",
@@ -2421,10 +2421,10 @@
     "type": "Feature",
     "properties": {
       "name": "WeWork Hackescher Markt",
-      "website": null,
+      "website": "https://www.wework.com/l/berlin",
       "description": "",
       "address": {
-        "street": "Neue Sch\u00f4nhauserstraße 3-5",
+        "street": "Neue Schônhauserstraße 3-5",
         "postcode": "10178",
         "city": "Berlin",
         "country": "DE"
@@ -2447,7 +2447,7 @@
     "type": "Feature",
     "properties": {
       "name": "Maxway Coffee",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
         "street": "Maaßenstraße 13",
@@ -2473,7 +2473,7 @@
     "type": "Feature",
     "properties": {
       "name": "easybusy",
-      "website": null,
+      "website": "http://www.easybusyspace.de/",
       "description": "",
       "address": {
         "street": "Bernauer straße 50",
@@ -2499,7 +2499,7 @@
     "type": "Feature",
     "properties": {
       "name": "Bar in a Jar",
-      "website": null,
+      "website": "https://www.facebook.com/barinajar.de/",
       "description": "",
       "address": {
         "street": "Mariannenstraße 29",
@@ -2525,7 +2525,7 @@
     "type": "Feature",
     "properties": {
       "name": "Melis Coffe 2",
-      "website": null,
+      "website": "",
       "description": "",
       "address": {
         "street": "Am Friedrichshain 35",
@@ -2551,10 +2551,10 @@
     "type": "Feature",
     "properties": {
       "name": "Lerchen und Eulen",
-      "website": null,
+      "website": "lerchenundeulen.de",
       "description": "",
       "address": {
-        "street": "P\u00fccklerstraße 33",
+        "street": "Pücklerstraße 33",
         "postcode": "10997",
         "city": "Berlin",
         "country": "DE"
@@ -2577,7 +2577,7 @@
     "type": "Feature",
     "properties": {
       "name": "Fireworks",
-      "website": null,
+      "website": "https://fireworkscoworking.wordpress.com/",
       "description": "",
       "address": {
         "street": "Stockholmer straße 4",
@@ -2603,7 +2603,7 @@
     "type": "Feature",
     "properties": {
       "name": "Mindspace",
-      "website": null,
+      "website": "http://mindspace.me/berlin/",
       "description": "",
       "address": {
         "street": "Krausenstraße 9",
@@ -2629,7 +2629,7 @@
     "type": "Feature",
     "properties": {
       "name": "WeWork Potsdamer Platz",
-      "website": null,
+      "website": "https://www.wework.com/l/berlin",
       "description": "",
       "address": {
         "street": "Stresemannstraße 123",
@@ -2654,11 +2654,11 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "WeWork Kurf\u00fcrstendamm",
-      "website": null,
+      "name": "WeWork Kurfürstendamm",
+      "website": "https://www.wework.com/l/berlin",
       "description": "",
       "address": {
-        "street": "Kurf\u00fcrstendamm 11",
+        "street": "Kurfürstendamm 11",
         "postcode": "10719",
         "city": " Berlin",
         "country": "DE"
