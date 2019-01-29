@@ -15,30 +15,39 @@ Please ensure your pull request adheres to the following guidelines:
 
 
 ## Description
-This Json version is an array of object of the following shape:
-- Name
-- Complete Address
-- URL
-- Latitude
-- Longitude
-- Day cost for a desk
-- Monthly cost for a flex desk
-- Monthly cost for a fixed desk
-- Notes
+This Json version uses the GeoJSON http://geojson.org/ format is an array of objects including the following shape:
+
+- Day rate for a desk
+- Monthly rate for a flex desk
+- Monthly rate for a fixed desk
 
 ```
 [
-  {
+{
+    "type": "Feature",
+    "properties": {
       "name": "",
-      "address": "",
-      "url": "",
-      "lat": "",
-      "lng": "",
-      "cost_day": "",
-      "cost_flex": "",
-      "cost_fixed": "",
-      "notes": ""
-  },
+      "website": "",
+      "description": "",
+      "address": {
+        "street": "",
+        "postcode": "",
+        "city": "",
+        "country": "country 2 digit ISO code"
+      },
+      "rates": {
+        "day": "",
+        "flex": "",
+        "fixed": ""
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "longitude",
+        "latitude"
+      ]
+    }
   ...
 ]
 ```
